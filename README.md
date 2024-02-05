@@ -146,7 +146,7 @@ Este script en Haskell verifica si una lista de comandos de ordenamiento, aplica
 ## Funciones
 
 ### Funciones
-
+c
 #### `isSorted :: [String] -> Bool`
 
 - **Argumentos:** Toma una lista de cadenas como entrada.
